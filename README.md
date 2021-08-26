@@ -18,7 +18,7 @@ Use the script <code>1_format_SNP_table.sh</code> to generate the file <code>var
 
 <h4> Part 2. Genotyping analysis using R </h4>
 
-Use the R script: <code>2_genotyping_hybrids_with_rna.R</code>
+Use the R script: <code>2_genotyping_hybrids_with_RNAseq_data.R</code>
 
 Input files:
 
